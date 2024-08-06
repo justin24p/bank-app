@@ -5,7 +5,6 @@ import {
     PlaidLinkOptions,
     usePlaidLink,
 } from "react-plaid-link";
-import { StyledString } from "next/dist/build/swc";
 import { useRouter } from "next/navigation";
 import {
     createLinkToken,
